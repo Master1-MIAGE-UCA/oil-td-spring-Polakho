@@ -1,0 +1,7 @@
+com/miage/oil/Dice.class
+com/miage/oil/OilApplication.class
+com/miage/oil/controller/DiceLogController.class
+com/miage/oil/repository/DiceRollLogRepository.class
+com/miage/oil/entity/DiceRollLog.class
+com/miage/oil/controller/DiceController.class
+com/miage/oil/service/DiceService.class
